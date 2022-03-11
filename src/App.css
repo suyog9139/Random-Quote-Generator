@@ -33,6 +33,7 @@
     display: flex;
     align-items: center;
     height: 580px;
+    font-size: 20px;
     font-family: 'Spartan', sans-serif;
 }
 
@@ -46,7 +47,7 @@
     align-items: center;
     cursor: pointer;
     text-transform: uppercase;
-    height: 200px;
+    height: 210px;
     width: 210px;
     opacity: 1;
     background-color: #ffffff;
